@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+
+# Large datasets
+#data/*.csv
+
+# Trained models
+models/*.keras
+models/*.pkl
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
