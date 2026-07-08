@@ -6,7 +6,7 @@ This project implements a Long Short-Term Memory (LSTM) neural network to predic
 
 The assignment recommends using the Caltrans PeMS dataset. For this implementation, the **METR-LA** subset of the Caltrans PeMS dataset was used.
 
-Although the assignment mentions **traffic density prediction**, the METR-LA dataset actually contains **traffic speed measurements** collected from road sensors. Therefore, this project predicts the **next traffic speed value** of a selected sensor using its previous traffic speed readings.
+Although the assignment mentions traffic density prediction, the METR-LA dataset actually contains traffic speed measurements collected from road sensors. Therefore, this project predicts the next traffic speed value of a selected sensor using its previous traffic speed readings.
 ---
 
 ## Objective
